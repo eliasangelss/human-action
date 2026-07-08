@@ -1,0 +1,10 @@
+pandas
+numpy
+pillow
+tensorflow
+matplotlib
+scikit-learn
+plotly
+seaborn
+optuna
+lime
